@@ -13,4 +13,4 @@ An image of testcase sheet
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| opencart    | Tested a web application for functionality and usability. | Test Plan, Testcases |
+| Opencart    | Tested a web application for functionality and usability. | Test Plan, Testcases |
