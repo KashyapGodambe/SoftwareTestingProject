@@ -26,4 +26,4 @@ An image of testcase sheet
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
 | Opencart    | Tested a web application for functionality and usability. | Test Plan, Testcases |
-| Github Repo API    | Tested a repository API of Github for all CRUD functionality. Prepared a API documentation & newman html reports | Postman, Newman reports |
+| Github Repo API    | Tested a repository API of Github for all CRUD functionality. Prepared a API documentation & generated newman html reports for all the testcases | Postman, Newman reports |
