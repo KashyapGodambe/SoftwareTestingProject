@@ -1,6 +1,6 @@
 # SoftwareTestingProject
 
-Project #1 - Testcase and Test Plan for opencart.com
+**Project #1** - Testcase and Test Plan for opencart.com
 
 1.Test Plan
 
@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1IuUcZzkn4y79JKrTyAOoi_wzQhZLr-MI14xxDzJT
 An image of testcase sheet
 
 
-Project #2 - Testcase and Test Plan for Github Repo API
+**Project #2** - Testcase and Test Plan for Github Repo API
 
 1.Test Plan
 https://docs.github.com/en/rest/repos?apiVersion=2022-11-28
